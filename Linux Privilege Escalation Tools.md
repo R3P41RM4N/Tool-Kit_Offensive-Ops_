@@ -37,5 +37,5 @@ Example Usage:
 
 Narrative:
 
-# Citations
+## Citations
 1. TryHackMe, "Linux PrivEsc Room." Tryhackme.com https://tryhackme.com/room/linprivesc
