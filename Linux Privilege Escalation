@@ -1,4 +1,7 @@
-<h1> LinPeas:
+# Linux Privilege Escalation Tool Kit
+
+## Automated PrivEsc Tools 
+# LinPeas:
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 Example Usage:
 Narrative
@@ -19,3 +22,5 @@ Linux Priv Checker: https://github.com/linted/linuxprivchecker
 Example Usage:
 Narrative:
 
+# Citations
+1. TryHackMe, "Linux PrivEsc Room." Tryhackme.com https://tryhackme.com/room/linprivesc
