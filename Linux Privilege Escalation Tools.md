@@ -37,5 +37,7 @@ Example Usage:
 
 Narrative:
 
+## Manual PrivEsc Tools
+
 ## Citations
 1. TryHackMe, "Linux PrivEsc Room." Tryhackme.com https://tryhackme.com/room/linprivesc
