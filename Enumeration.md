@@ -12,5 +12,5 @@ Example:
 
 Narrative:
 
-#Citations
-2. Eon, Joel and Chris Truncer, "Enumerate Domain Data" FortyNorthSecurity https://github.com/FortyNorthSecurity/EDD
+# Citations
+1. Eon, Joel and Chris Truncer, "Enumerate Domain Data" FortyNorthSecurity https://github.com/FortyNorthSecurity/EDD
