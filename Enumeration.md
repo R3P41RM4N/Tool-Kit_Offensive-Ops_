@@ -11,3 +11,6 @@ https://github.com/FortyNorthSecurity/EDD
 Example:
 
 Narrative:
+
+#Citations
+2. Eon, Joel and Chris Truncer, "Enumerate Domain Data" FortyNorthSecurity https://github.com/FortyNorthSecurity/EDD
