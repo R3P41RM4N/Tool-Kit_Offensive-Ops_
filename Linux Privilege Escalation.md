@@ -2,35 +2,35 @@
 
   ## Automated PrivEsc Tools 
     
-    ### LinPeas:
+### LinPeas:
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
 
 Example Usage:
 
 Narrative:
 
-    ### LinEnum: 
+### LinEnum: 
 https://github.com/rebootuser/LinEnum
 
 Example Usage:
 
 Narrative:
 
-    ### LES (Linux Exploit Suggester): 
+### LES (Linux Exploit Suggester): 
 https://github.com/mzet-/linux-exploit-suggester
 
 Example Usage:
 
 Narrative:
 
-    ### Linux Smart Enumeration: 
+### Linux Smart Enumeration: 
 https://github.com/diego-treitos/linux-smart-enumeration
 
 Example Usage:
 
 Narrative:
 
-    ### Linux Priv Checker: 
+### Linux Priv Checker: 
 https://github.com/linted/linuxprivchecker
 
 Example Usage:
