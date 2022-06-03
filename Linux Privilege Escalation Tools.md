@@ -42,7 +42,7 @@ Narrative:
 ### GTFOBins 
 https://gtfobins.github.io/
 
-Narrative: provides a list of unix binaries that are usefull for getting shells within a system and then can be used to locate other passwords and/or create your own so that you have persistent root rights.
+Narrative: provides a list of unix binaries that are useful for getting shells within a system and then can be used to locate other passwords and/or create your own so that you have persistent root rights.
 
 #### R's Note: When you hit a wall, try sudo -l and see if there are any sudo commands on GTFO bins you can use to get the highest level. 
 
