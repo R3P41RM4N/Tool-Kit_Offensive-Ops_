@@ -2,7 +2,7 @@
 
 ## Manual Enumeration Techniques (OSINT)
 
-###1. dnsdumpster
+### 1. dnsdumpster
 https://dnsdumpster.com/
 
 Example:
@@ -11,14 +11,14 @@ Narrative: DNSdumpster.com is a FREE domain research tool that can discover host
 
 ## Automated Enumeration Techniques
 
-###1. Sublist3r
+### 1. Sublist3r
 https://github.com/aboul3la/Sublist3r
 
 Example:
 
 Narrative:
 
-###2. gobuster
+### 2. gobuster
 https://github.com/OJ/gobuster
 
 Example:
