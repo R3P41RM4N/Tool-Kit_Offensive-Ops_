@@ -2,7 +2,7 @@
 
 
 
-## OSINT Enumeration Techniques
+## OSINT Enumeration Tools/Techniques
 ###1. Sublist3r
 https://github.com/aboul3la/Sublist3r
 
@@ -15,7 +15,7 @@ https://dnsdumpster.com/
 
 Example:
 
-Narrative:
+Narrative: DNSdumpster.com is a FREE domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process. 
 
 ###3. gobuster
 https://github.com/OJ/gobuster
@@ -38,3 +38,4 @@ Narrative:
 
 ## Citations
 1. Eon, Joel and Chris Truncer, "Enumerate Domain Data" FortyNorthSecurity https://github.com/FortyNorthSecurity/EDD
+2. Reeves, OJ, "gobuster" https://github.com/OJ/gobuster
