@@ -1,4 +1,4 @@
-##1. Reconaissance
+## 1. Reconaissance
 	###Passive Reconaissance (OSINT)
 ☐ Lookup WHOIS Record
 ☐ Lookup DNS A records
@@ -10,7 +10,7 @@
 ☐ Check DNSdumpster.com (secret servers)
 ☐ Check Shodan.io
 
-###Active Reconaissance
+### Active Reconaissance
 
 ####Network Scanning
 
