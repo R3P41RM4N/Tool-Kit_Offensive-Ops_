@@ -1,4 +1,4 @@
-# Linux Privilege Escalation Tool Kit
+# Privilege Escalation Tool Kit
 
   ## Automated PrivEsc Tools 
     
