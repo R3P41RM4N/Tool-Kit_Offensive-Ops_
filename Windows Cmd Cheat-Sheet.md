@@ -1,5 +1,6 @@
-### The following are cheat-sheets that I found useful after initial access to windows platforms:
-CMD commands for the Windows command prompt
+### The following was pulled from  https://www.ionos.com/digitalguide/server/know-how/windows-cmd-commands/ cheat-sheets that I found useful after initial access to windows platforms. Please add to it if it is missing something:
+
+## CMD commands for the Windows command prompt
 
 | CMD command | Description | Windows version|
 | --- | --- | --- |
@@ -296,10 +297,9 @@ winrm	Manages secure connections between local and remote computers via the WS m
 winrs	Enables access to the command line of a remote computer via a secure connection to implement changes. If you want to disable encryption, use -un.	10/8/7/Vista
 wsmanhttpconfig	Manages functions of the Windows Remote Management (winrm).	10/8/7/Vista
 
-
-     https://www.ionos.com/digitalguide/server/know-how/windows-cmd-commands/
      Great table that I want to include in my tool kit when I figure out how to put tables
+## Additional Resources
 
-An A-Z Index of Windows CMD commands. 
+#### An A-Z Index of Windows CMD commands. 
     https://ss64.com/nt/
     Very useful in terms of finding the right command for the job!
