@@ -300,6 +300,6 @@ wsmanhttpconfig	Manages functions of the Windows Remote Management (winrm).	10/8
      Great table that I want to include in my tool kit when I figure out how to put tables
 ## Additional Resources
 
-#### An A-Z Index of Windows CMD commands. 
-    https://ss64.com/nt/
-    Very useful in terms of finding the right command for the job!
+#### 1. An A-Z Index of Windows CMD commands. 
+https://ss64.com/nt/
+_Narrative: Very useful in terms of finding the right command for the job!_****
