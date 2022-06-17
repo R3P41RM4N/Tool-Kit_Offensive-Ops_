@@ -302,4 +302,4 @@ wsmanhttpconfig	Manages functions of the Windows Remote Management (winrm).	10/8
 
 #### 1. An A-Z Index of Windows CMD commands. 
 https://ss64.com/nt/
-_Narrative: Very useful in terms of finding the right command for the job!_****
+_Narrative: Very useful in terms of finding the right command for the job!
