@@ -1,4 +1,4 @@
-### The following was pulled from  https://www.ionos.com/digitalguide/server/know-how/windows-cmd-commands/ cheat-sheets that I found useful after initial access to windows platforms. Please add to it if it is missing something:
+# The following was pulled from  https://www.ionos.com/digitalguide/server/know-how/windows-cmd-commands/ cheat-sheets that I found useful after initial access to windows platforms. Please add to it if it is missing something:
 
 ## CMD commands for the Windows command prompt
 
