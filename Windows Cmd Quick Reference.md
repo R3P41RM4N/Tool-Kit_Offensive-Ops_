@@ -1,4 +1,4 @@
-## The following was pulled from  https://www.ionos.com/digitalguide/server/know-how/windows-cmd-commands/ cheat-sheets that I found useful AFTER initial access to windows platforms. Please add to it if it is missing something:
+## The following is a sample of command line commands for Windows Machines pulled from  https://www.ionos.com/digitalguide/server/know-how/windows-cmd-commands/. For additional, indepth explainations of different windows commands I suggest looking at https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
 
 ## CMD commands for the Windows command prompt
 
@@ -7,8 +7,8 @@
 | bitsadmin | Creates and monitors downloads and uploads. | 10/8/7/Vista |
 | break | Interrupts Ctrl + C checking in DOS, allowing you to stop processes in the old operating system. Only available for compatibility reasons in Windows.	All Win/DOS
 | call | Calls a batch file within another batch file. The command has no effect if entered directly into CMD instead of in a batch file. | All Win/DOS	 
-cd	Displays the current directory and lets you switch to other directories. With the parameter /D plus drive and path specification, you can also switch drives. Use cd.. to switch to a higher directory (has the same function as the chdir command).	All Win/DOS	 
-chcp	Changes the current code page (character set table) or shows the page count of the current code page.	All Win/DOS	 
+|cd | Displays the current directory and lets you switch to other directories. With the parameter /D plus drive and path specification, you can also switch drives. Use cd.. to switch to a higher directory (has the same function as the chdir command). | All Win/DOS	|
+|chcp | Changes the current code page (character set table) or shows the page count of the current code page. | All Win/DOS |
 chdir	Displays the current directory and lets you switch to other directories. With the parameter /D plus drive and path specification, you can also switch drives. Use chdir.. to switch to a higher directory (has the same function as the cd command).	All Win/DOS	 
 choice	Creates a selection list: typical example is the selection of yes (Y) or no (N), which is created with /C YN. With the parameter /M you can add an explanatory message for the user.	All Win (not XP)/DOS	 
 clip	Forwards the result of a command to the clipboard. For example, you can copy the directory structure (dir	clip) or the content of a file (clip < filename) to the clipboard.	10/8/7/Vista
